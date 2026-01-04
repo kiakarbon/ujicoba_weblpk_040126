@@ -5,5 +5,5 @@ import plotly.express as px
 from datetime import datetime
 
 # Konfigurasi halaman
-st.set_page_config(page_title="Personal Finance Dashboard", layout="wide")
+st.set_page_config(page_title="NanoLab Dashboard", layout="wide")
 
